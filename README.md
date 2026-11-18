@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1530,50:2563eb,100:7c3aed&height=190&section=header&text=Mayssa%20Dhahri&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=%C3%89l%C3%A8ve-ing%C3%A9nieure%20en%20G%C3%A9nie%20Logiciel%20%C2%B7%20Full-Stack%20%26%20Mobile%20%C2%B7%20Agents%20IA&descSize=16&descAlignY=58" width="100%" />
+<img src="./assets/banner.svg" alt="Mayssa Dhahri — Full-Stack & Mobile Developer" width="100%" />
 
 <a href="https://www.linkedin.com/in/mayssa-dhahri"><img src="https://img.shields.io/badge/LinkedIn-mayssa--dhahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maissa.dhahri_1@polytechnicien.tn"><img src="https://img.shields.io/badge/Email-Me%20contacter-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
