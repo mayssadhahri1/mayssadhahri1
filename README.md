@@ -47,6 +47,7 @@
 | Projet | Description | Stack |
 |---|---|---|
 | 🤖 [**CareerMatch AI**](https://github.com/mayssadhahri1/careermatch-ai) | Agent IA qui compare un CV à une offre de stage : score pondéré, compétences manquantes, plan de progression, lettre de motivation (LLM local ou API, repli par règles) | Python · FastAPI · LLM (Ollama / OpenAI) · SQLAlchemy · Docker · CI |
+| 🎫 [**SLA Desk**](https://github.com/mayssadhahri1/sla-desk) | Plateforme de support client : tickets, rôles (client / agent / admin), suivi des SLA en temps réel, machine à états, journal d'audit, tableau de bord | TypeScript · Node.js · Express · JWT · SQLite · Vitest · Docker · CI |
 | 🎬 [**Smart Movie Platform**](https://github.com/mayssadhahri1/smart-movie-recommendation) | Plateforme de films : API REST sécurisée (JWT + Google), recommandations par genres, import TMDB, streaming vidéo (HTTP Range), dashboard admin | Spring Boot · MySQL · Angular · Flutter |
 | 🔁 [**MERN CI/CD**](https://github.com/mayssadhahri1/mern-app) | Application MERN conteneurisée avec intégration continue sur 3 outils et scan de sécurité des images | Docker · Jenkins · GitHub Actions · Trivy |
 | 📊 [**DevNet Dashboard**](https://github.com/mayssadhahri1/devnet-dashboard) | Supervision en temps réel du CPU, de la RAM et du disque, avec API météo | FastAPI · Streamlit · Docker · CI/CD |
