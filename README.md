@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Mayssa Dhahri — Full-Stack & Mobile Developer" width="100%" />
 
-<a href="https://www.linkedin.com/in/mayssa-dhahri"><img src="https://img.shields.io/badge/LinkedIn-mayssa--dhahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mayssa-dhahri-38b1373bb/"><img src="https://img.shields.io/badge/LinkedIn-mayssa--dhahri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maissa.dhahri_1@polytechnicien.tn"><img src="https://img.shields.io/badge/Email-Me%20contacter-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/PFE-F%C3%A9vrier%202027-22d3ee?style=for-the-badge&logo=rocket&logoColor=0b1530" />
 
@@ -46,6 +46,7 @@
 
 | Projet | Description | Stack |
 |---|---|---|
+| 🤖 [**CareerMatch AI**](https://github.com/mayssadhahri1/careermatch-ai) | Agent IA qui compare un CV à une offre de stage : score pondéré, compétences manquantes, plan de progression, lettre de motivation (LLM local ou API, repli par règles) | Python · FastAPI · LLM (Ollama / OpenAI) · SQLAlchemy · Docker · CI |
 | 🎬 [**Smart Movie Platform**](https://github.com/mayssadhahri1/smart-movie-recommendation) | Plateforme de films : API REST sécurisée (JWT + Google), recommandations par genres, import TMDB, streaming vidéo (HTTP Range), dashboard admin | Spring Boot · MySQL · Angular · Flutter |
 | 🔁 [**MERN CI/CD**](https://github.com/mayssadhahri1/mern-app) | Application MERN conteneurisée avec intégration continue sur 3 outils et scan de sécurité des images | Docker · Jenkins · GitHub Actions · Trivy |
 | 📊 [**DevNet Dashboard**](https://github.com/mayssadhahri1/devnet-dashboard) | Supervision en temps réel du CPU, de la RAM et du disque, avec API météo | FastAPI · Streamlit · Docker · CI/CD |
